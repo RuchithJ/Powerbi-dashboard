@@ -1,4 +1,4 @@
-# ShopNest E-commerce Analytics Dashboard
+# DataAnalysis of 8 KPIs through Dashboard
 
 ## Project Overview
 Interactive Power BI dashboard providing comprehensive business intelligence for e-commerce operations. Tracks sales performance, delivery logistics, and customer satisfaction metrics.
